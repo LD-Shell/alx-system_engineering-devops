@@ -1,1 +1,1 @@
-**These are simple exercises to to practise manipulating files and directories in shell**
+**These are simple exercises to practise manipulating files and directories in shell**
